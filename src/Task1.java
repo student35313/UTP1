@@ -1,4 +1,5 @@
 // TODO: we need to add the missing classes!
+// OK, I will add `Adder` and s##### will add `Subtractor`.
 public class Task1 {
 
     public static void main(String[] args) {
@@ -9,7 +10,7 @@ public class Task1 {
 
 
         Subtractor subtractor = new Subtractor();
-//referfer
+
 
         System.out.println(subtractor.subtract(6, 3));
 
